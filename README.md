@@ -1,4 +1,4 @@
-# myappstoreranking-com
+# My App Store Ranking
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,98 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-myappstoreranking-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://myappstoreranking.com/
+My App Store Ranking provides a platform to track and analyze app rankings across major app stores including Apple App Store, Google Play, and others. Users can monitor daily rank changes, receive alerts, and access competitor insights. The service offers free and paid plans, with features such as country‑level rankings, historical data, and AI‑driven notifications. Founded by Arnaud Dellinger of Rebels Productions, the company aims to help developers and marketers make data‑driven decisions to improve app visibility and performance.
+
+**Areas:** AppRanking · MobileAnalytics · CompetitorIntelligence · AI · SaaS
+
+## My App Store Ranking on APIs.io
+
+Everything profiled for My App Store Ranking is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/myappstoreranking-com/](https://apis.io/providers/myappstoreranking-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [My App Store Ranking API](https://apis.io/apis/myappstoreranking-com/my-app-store-ranking-api/) — Read-only access to tracked apps, rankings, competitors and reports.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [My App Store Ranking Authentication](https://apis.io/security/myappstoreranking-com/myappstoreranking-com-authentication/)
+- [My App Store Ranking Domain Security](https://apis.io/security/myappstoreranking-com/myappstoreranking-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [My App Store Ranking Plans Pricing](https://apis.io/plans/myappstoreranking-com/myappstoreranking-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://myappstoreranking.com/)
+- [Documentation](https://myappstoreranking.com/docs/mcp?utm_source=homepage&utm_medium=section&utm_campaign=mcp)
+- [API reference](https://myappstoreranking.com/top-charts/peru/iphone/free/reference)
+- [Pricing](https://myappstoreranking.com/pricing)
+- [Terms of service](https://myappstoreranking.com/legal/terms)
+- [Privacy policy](https://myappstoreranking.com/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 25.7** — emerging · rubric 0.27.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 50.5 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/myappstoreranking-com/](https://apis.io/providers/myappstoreranking-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for My App Store Ranking: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/myappstoreranking-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
